@@ -1,5 +1,7 @@
 This is my first file
 Editing secime
-stage changes
+stage change
+
+tests
 
 third change
